@@ -1,5 +1,7 @@
 # Examples
 
+[English](./EXAMPLES.md) | [简体中文](./EXAMPLES.zh.md)
+
 Real-world code examples demonstrating the four principles. Each example shows what LLMs commonly do wrong and how to fix it.
 
 ---

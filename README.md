@@ -8,6 +8,8 @@ A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej 
 
 English | [简体中文](./README.zh.md)
 
+More docs: [Claude guidelines](./CLAUDE.md) | [Cursor usage](./CURSOR.md) | [Examples](./EXAMPLES.md). Chinese versions are linked at the top of each page.
+
 ## The Problems
 
 From Andrej's post:
@@ -111,6 +113,7 @@ Then install the plugin:
 ```
 
 This installs the guidelines as a Claude Code plugin, making the skill available across all your projects.
+The plugin includes both the English `karpathy-guidelines` skill and the Chinese `karpathy-guidelines-zh` skill.
 
 **Option B: CLAUDE.md (per-project)**
 
